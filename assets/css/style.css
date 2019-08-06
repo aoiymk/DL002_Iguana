@@ -36,6 +36,7 @@ footer p {
   display:inline-flex;
   vertical-align: middle;
   width: 100%;
+  background: #000000;
 }
 
 .desc-section-texto{
@@ -106,6 +107,6 @@ margin-top: 1 rem;
 }
 
 #center-icon{
-  padding-left: 11.375rem;
-  padding-right: 9.0625rem;
+  padding-left: 5.6875rem;
+  padding-right: 5.6875rem;
 }
