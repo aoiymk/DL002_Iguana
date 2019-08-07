@@ -40,7 +40,6 @@ footer p {
 
 
 .desc-section img{
-
   padding-left: 6.625rem;
   width: 24.9375rem;
   height: 14.8125rem;
@@ -68,13 +67,13 @@ footer p {
 
 
 .icon-grid{
-  display: inline-block;
   padding-bottom: 4.625rem;
+  display: inline-block;
 }
 
 .icon-text{
   display: inline-block;
-
-  padding-left: 4rem;
-  padding-right: 4rem;
+  width: 10rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
